@@ -1,6 +1,6 @@
 Stock Market Analysis using MySQL
 
-![Uploading image.png…]()
+https://in.pinterest.com/pin/400890804352355059/
 
 
 Introduction :
