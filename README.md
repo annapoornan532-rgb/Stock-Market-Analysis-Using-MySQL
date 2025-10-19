@@ -1,7 +1,7 @@
 Stock Market Analysis using MySQL
 
-https://in.pinterest.com/pin/400890804352355059/
 
+https://pin.it/1I3JxxJDM
 
 Introduction :
 
