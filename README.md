@@ -1,6 +1,6 @@
 Stock Market Analysis using MySQL
 
-https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL/blob/main/Stock%20Market%20Analysis.jpg
+![Uploading image.png…]()
 
 Introduction :
 
